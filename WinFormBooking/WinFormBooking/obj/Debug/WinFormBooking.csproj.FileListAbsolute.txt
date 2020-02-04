@@ -1,0 +1,12 @@
+D:\dotnet\WinFormBooking\WinFormBooking\bin\Debug\WinFormBooking.exe.config
+D:\dotnet\WinFormBooking\WinFormBooking\bin\Debug\WinFormBooking.exe
+D:\dotnet\WinFormBooking\WinFormBooking\bin\Debug\WinFormBooking.pdb
+D:\dotnet\WinFormBooking\WinFormBooking\obj\Debug\WinFormBooking.Properties.Resources.resources
+D:\dotnet\WinFormBooking\WinFormBooking\obj\Debug\WinFormBooking.csproj.GenerateResource.cache
+D:\dotnet\WinFormBooking\WinFormBooking\obj\Debug\WinFormBooking.exe
+D:\dotnet\WinFormBooking\WinFormBooking\obj\Debug\WinFormBooking.pdb
+D:\dotnet\WinFormBooking\WinFormBooking\bin\Debug\MySql.Data.dll
+D:\dotnet\WinFormBooking\WinFormBooking\bin\Debug\MySql.Data.xml
+D:\dotnet\WinFormBooking\WinFormBooking\obj\Debug\WinFormBooking.csproj.CopyComplete
+D:\dotnet\WinFormBooking\WinFormBooking\obj\Debug\WinFormBooking.csprojAssemblyReference.cache
+D:\dotnet\WinFormBooking\WinFormBooking\obj\Debug\WinFormBooking.frmBooking.resources
