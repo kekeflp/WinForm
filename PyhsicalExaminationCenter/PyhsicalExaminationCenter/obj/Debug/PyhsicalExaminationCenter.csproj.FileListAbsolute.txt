@@ -1,0 +1,10 @@
+D:\dotnet\PyhsicalExaminationCenter\PyhsicalExaminationCenter\bin\Debug\PyhsicalExaminationCenter.exe.config
+D:\dotnet\PyhsicalExaminationCenter\PyhsicalExaminationCenter\bin\Debug\PyhsicalExaminationCenter.exe
+D:\dotnet\PyhsicalExaminationCenter\PyhsicalExaminationCenter\bin\Debug\PyhsicalExaminationCenter.pdb
+D:\dotnet\PyhsicalExaminationCenter\PyhsicalExaminationCenter\obj\Debug\PyhsicalExaminationCenter.csprojAssemblyReference.cache
+D:\dotnet\PyhsicalExaminationCenter\PyhsicalExaminationCenter\obj\Debug\PyhsicalExaminationCenter.Properties.Resources.resources
+D:\dotnet\PyhsicalExaminationCenter\PyhsicalExaminationCenter\obj\Debug\PyhsicalExaminationCenter.csproj.GenerateResource.cache
+D:\dotnet\PyhsicalExaminationCenter\PyhsicalExaminationCenter\obj\Debug\PyhsicalExaminationCenter.csproj.CoreCompileInputs.cache
+D:\dotnet\PyhsicalExaminationCenter\PyhsicalExaminationCenter\obj\Debug\PyhsicalExaminationCenter.exe
+D:\dotnet\PyhsicalExaminationCenter\PyhsicalExaminationCenter\obj\Debug\PyhsicalExaminationCenter.pdb
+D:\dotnet\PyhsicalExaminationCenter\PyhsicalExaminationCenter\obj\Debug\PyhsicalExaminationCenter.Form1.resources
