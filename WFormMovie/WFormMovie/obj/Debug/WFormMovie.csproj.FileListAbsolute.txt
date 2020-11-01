@@ -1,0 +1,13 @@
+D:\dotnet\WinForm\WFormMovie\WFormMovie\bin\Debug\Data\Images\我是僵尸.png
+D:\dotnet\WinForm\WFormMovie\WFormMovie\bin\Debug\Data\Images\黑袍纠察队.png
+D:\dotnet\WinForm\WFormMovie\WFormMovie\bin\Debug\Data\Movies.xml
+D:\dotnet\WinForm\WFormMovie\WFormMovie\bin\Debug\WFormMovie.exe.config
+D:\dotnet\WinForm\WFormMovie\WFormMovie\bin\Debug\WFormMovie.exe
+D:\dotnet\WinForm\WFormMovie\WFormMovie\bin\Debug\WFormMovie.pdb
+D:\dotnet\WinForm\WFormMovie\WFormMovie\obj\Debug\WFormMovie.csprojAssemblyReference.cache
+D:\dotnet\WinForm\WFormMovie\WFormMovie\obj\Debug\WFormMovie.Form1.resources
+D:\dotnet\WinForm\WFormMovie\WFormMovie\obj\Debug\WFormMovie.Properties.Resources.resources
+D:\dotnet\WinForm\WFormMovie\WFormMovie\obj\Debug\WFormMovie.csproj.GenerateResource.cache
+D:\dotnet\WinForm\WFormMovie\WFormMovie\obj\Debug\WFormMovie.csproj.CoreCompileInputs.cache
+D:\dotnet\WinForm\WFormMovie\WFormMovie\obj\Debug\WFormMovie.exe
+D:\dotnet\WinForm\WFormMovie\WFormMovie\obj\Debug\WFormMovie.pdb
