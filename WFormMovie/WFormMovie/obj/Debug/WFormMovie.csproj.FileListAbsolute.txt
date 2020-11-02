@@ -11,3 +11,4 @@ D:\dotnet\WinForm\WFormMovie\WFormMovie\obj\Debug\WFormMovie.csproj.GenerateReso
 D:\dotnet\WinForm\WFormMovie\WFormMovie\obj\Debug\WFormMovie.csproj.CoreCompileInputs.cache
 D:\dotnet\WinForm\WFormMovie\WFormMovie\obj\Debug\WFormMovie.exe
 D:\dotnet\WinForm\WFormMovie\WFormMovie\obj\Debug\WFormMovie.pdb
+D:\dotnet\WinForm\WFormMovie\WFormMovie\obj\Debug\WFormMovie.UCTicket.resources

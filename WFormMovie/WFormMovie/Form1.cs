@@ -7,6 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using WFormMovie.Models;
 using WFormMovie.Services;
 
 namespace WFormMovie
@@ -46,6 +47,7 @@ namespace WFormMovie
                 }
             }
 
+            // 选择节点是发生的事件处理
             treeView1.AfterSelect += TreeView1_AfterSelect;
         }
 
@@ -59,9 +61,22 @@ namespace WFormMovie
                 label2.Text = movie.FilmType;
                 label3.Text = movie.Director;
                 label4.Text = movie.Star;
-                label5.Text = movie.Description;
-                label6.Text = movie.Price.ToString("C");
+                textBox1.Text = movie.Description;
+                label5.Text = movie.Price.ToString("C");
+
+                // 当前节点的tag中存有对象
+                InitTickets((e.Node.Tag as MovieTime).Tickets);
             }
         }
+
+        private void InitTickets(List<Ticket> tickets)
+        {
+            flowLayoutPanel1.Controls.Clear();
+            foreach (var ticket in tickets)
+            {
+                flowLayoutPanel1.Controls.Add(new UCTicket(ticket));
+            }
+        }
+
     }
 }
