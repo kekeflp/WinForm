@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
+using System.Diagnostics;
 using System.Drawing;
 using System.Linq;
 using System.Text;
@@ -55,7 +56,7 @@ namespace WFormMovie
         {
             if (e.Node.Level == 1)
             {
-                var movie = e.Node.Parent.Tag as Models.Movie;
+                var movie = e.Node.Parent.Tag as Movie;
                 pictureBox1.Image = movie.Img;
                 label1.Text = movie.Title;
                 label2.Text = movie.FilmType;
@@ -78,5 +79,25 @@ namespace WFormMovie
             }
         }
 
+        private void button1_Click(object sender, EventArgs e)
+        {
+            // 声明一个所有座位的集合
+            List<Ticket> tickets = new List<Ticket>();
+            // 找出控件中所有黄色的座位
+            foreach (UCTicket item in flowLayoutPanel1.Controls)
+            {
+                if (item.BackColor == Color.Yellow)
+                {
+                    tickets.Add(item.TicketPro);
+                }
+            }
+            // 计算选中的座位的总价
+            var money = MovieService.BuyTicket(treeView1.SelectedNode.Parent.Text, treeView1.SelectedNode.Text, tickets.Select(m => m.Seat).ToList());
+
+            // 刷新下票，并且找到选中场次所有的票
+            InitTickets((treeView1.SelectedNode.Tag as MovieTime).Tickets);
+
+            MessageBox.Show($"本次总消费：{money.ToString("C")}");
+        }
     }
 }
